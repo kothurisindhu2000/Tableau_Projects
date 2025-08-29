@@ -13,6 +13,7 @@
 
 View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 https://public.tableau.com/app/profile/sindhu.kothuri1495/vizzes
+https://app.powerbi.com/groups/me/reports/3499a601-8da2-4e73-99aa-f7df55b8e86a?ctid=249723f7-4616-4ac3-b3a1-8579f139d5e2&pbi_source=linkShare
 
 # ScreenShot
 ## Health Awareness Analytics
